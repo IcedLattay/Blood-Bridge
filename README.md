@@ -5,3 +5,5 @@ The system emphasizes a robust backend with a relational database, a matching al
 # CONTRIBUTORS
 
 - Dioquino, John Lawrence **@Penguinqt**
+- Escasinas, Luezyl Dominic **@IcedLattay**
+- Becera, Irian Haryll **@IrianB**
